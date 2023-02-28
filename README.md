@@ -1,3 +1,33 @@
+## INDRODUCTION
+
+
+REACT JS : React provides state-of-the-art functionality and is an excellent choice for developers looking for an easy-to-use and highly productive JavaScript framework. Using React, you can build complex UI interactions that communicate with the server in record time with JavaScript-driven pages.
+
+JSX : JSX stands for JavaScript XML. JSX allows us to write HTML in React. JSX makes it easier to write and add HTML in React
+
+Tailwind CSS : Tailwind is a CSS framework that provides us with single-purpose utility classes which are opinionated for the most part, and which help us design our web pages. Making It easier for us to stylize our web pages .
+
+Github: GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere
+
+## PURPOSE AND OVERVIEW OF THE PROJECT :
+
+React provides state-of-the-art functionality and is an excellent choice for developers looking for an easy-to-use and highly productive JavaScript framework. Using React, you can build complex UI interactions that communicate with the server in record time with JavaScript-driven pages. Being simple to read and easy to use made React easy to understand and implement.React, when applied correctly, can save tremendous time, effort, and cost in frontend development.
+We used utility of react to make a quiz app using react and tailwind js. There was the challenge of building logic and implementing hooks like useEffect and useContext but in the end we did complete successfully and pushed it into github and deployed with Vercel with continuous deployment 
+
+
+
+## Screenshots
+![image](https://user-images.githubusercontent.com/74723604/221969135-64ddfa07-6c3b-4663-869e-2432987822a6.png)
+![image](https://user-images.githubusercontent.com/74723604/221969213-a43df9e9-26af-4e59-912a-76f6082b8478.png)
+![image](https://user-images.githubusercontent.com/74723604/221969198-164d598e-c791-459e-901a-9263d873bb57.png)
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
